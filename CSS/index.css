@@ -191,6 +191,10 @@ a:active {color:rgb(224, 47, 0);}
 
 .screenShot img {width: 100%;}
 
+.cardPlace2 {
+  height:265px;
+}
+
 @media(max-width:1200px) {
   .mainDiv {
     width:450px;
