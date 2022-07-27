@@ -1,7 +1,7 @@
 ﻿[ValheimPlus]
 
 ; Change false to true to enable this section. https://valheim.plus/documentation/list#ValheimPlus
-enabled = true
+enabled = false
 
 ; Display the Valheim Plus logo in the main menu
 mainMenuLogo = true
